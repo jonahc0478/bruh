@@ -1,0 +1,21 @@
+/*
+ *Name: [Jonah Catlin]
+ *UnityID: [jhcatlin]
+ *Date: [11/12/23]
+ *Assignment: [Guided Lab 4]
+ *Description: [Style sheet for my webpage] */
+ 
+p {
+    font-family: American Typewriter;
+	font-size: 17px;
+	color: #002468;
+}
+
+.table-border {
+    border: 3px solid #002468;
+}
+
+#photo-resize {
+    max-width: 500px;
+	max-height: 600px;
+}
